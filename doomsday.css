@@ -1,0 +1,52 @@
+body {
+text-align: center;
+
+color: #222;
+font-family:'Droid Serif', serif;
+}
+
+.container {
+  width:1055px;
+  margin: 150px auto; 
+  
+}
+
+#doomsday {
+  border: 0px solid #111;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  height: 400px;
+}
+
+.text {
+  display: inline-block;
+  text-align:left;
+  vertical-align: bottom;
+  margin-left: 50px;
+  
+}
+
+#alert {
+  font-size: 20px;
+  margin-bottom:40px; 
+}
+
+#countdown {
+  font-family:'Open Sans', sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  width: 600px;
+  
+}
+
+#byline {
+  font-size: 10px;
+  text-align: right;
+  padding-right: 660px;
+  padding-top: 2px;
+  color:#777;
+  
+}
